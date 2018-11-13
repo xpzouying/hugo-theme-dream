@@ -32,9 +32,9 @@ All tags of this theme:
 
 Go to your blog folder, and:
 
-```
+```bash
 cd themes
-git clone https://github.com/g1eny0ung/hugo-theme-dream.git dream
+git clone https://github.com/xpzouying/hugo-theme-dream.git dream
 ```
 
 Then open your `config.toml`, edit to `theme = "dream"` and save.
